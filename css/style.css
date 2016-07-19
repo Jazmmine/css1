@@ -1,0 +1,50 @@
+#css-zen-garden{
+	background: url("../images/free_vector_bg_1.jpg") no-repeat center center fixed;
+	padding-right: 10em;
+	padding-left: 10em;
+	font-family: Verdana;
+}
+.page-wrapper {
+	color: white;
+}
+h1{
+	font-size: 40px;
+	text-align: center;
+	color: #FFD700;
+}
+.intro{
+	background-color: rgba(142, 0, 255, 0.19);
+}
+.summary{
+	border-radius: 25px;
+	border: 2px solid #73AD21;
+	padding: 1em;
+}
+.preamble{
+	font-style: oblique;
+}
+.main.supporting{
+	border-radius: 25px;
+	border: 2px solid #73AD21;
+	padding: 1em;
+}
+
+.design-selection{
+	background: url("../images/gatitos.jpg") no-repeat right center fixed;
+}
+.design-archives{
+	border-radius: 25px;
+	border: 2px solid #73AD21;
+	padding: 1em;
+}
+.zen-resources{
+	border-radius: 25px;
+	border: 2px solid #73AD21;
+	padding: 1em;
+}
+a{
+color: #265C83;
+text-decoration: none;
+transition: color 1s;
+}
+a:hover   { color: #7FDBFF; }
