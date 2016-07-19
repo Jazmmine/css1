@@ -43,8 +43,10 @@ h1{
 	padding: 1em;
 }
 a{
-color: #265C83;
-text-decoration: none;
-transition: color 1s;
+	color: #265C83;
+	text-decoration: none;
+	transition: color 1s;
 }
-a:hover   { color: #7FDBFF; }
+a:hover{ 
+	color: #7FDBFF; 
+}
